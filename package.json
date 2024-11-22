@@ -20,7 +20,8 @@
     "react-dom": "18.1.0",
     "react-moment": "^1.1.2",
     "react-redux": "^8.0.2",
-    "redux-persist": "^6.0.0"
+    "redux-persist": "^6.0.0",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
